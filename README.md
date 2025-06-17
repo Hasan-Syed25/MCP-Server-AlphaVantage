@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hasan-syed25-mcp-server-alphavantage-badge.png)](https://mseep.ai/app/hasan-syed25-mcp-server-alphavantage)
+
 # MCP Server for Stock Market Analysis
 
 ## Overview
