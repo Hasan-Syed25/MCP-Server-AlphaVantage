@@ -1,5 +1,7 @@
 # MCP Server for Stock Market Analysis
 
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/7f9ee518-9288-478e-986c-6b5866890473)
+
 ## Overview
 This project implements a Model Context Protocol (MCP) server designed for stock market analysis. It provides real-time stock price data, calculates key technical indicators like moving averages and RSI, and enables trend detection using AlphaVantage API. The server can be integrated with LLMs like Claude for enhanced financial insights.
 
